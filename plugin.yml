@@ -1,0 +1,8 @@
+name: Craftshark Tag
+main: me.shawshark.tag.main
+version: 1.0
+
+depend: [TagAPI] 
+
+commands:
+  tag:
